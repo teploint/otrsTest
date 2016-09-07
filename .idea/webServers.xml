@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="685b6db6-3358-4e5c-8824-d763d9cf5dac" name="daliyrep.comenergo.ru" url="http://dailyrep.comenergo.ru">
+        <fileTransfer host="dailyrep.comenergo.ru" port="22" rootFolder="/var/www/dailyrep" accessType="SFTP" password="dfe0dff8df98dfdddfdcdfe9dfd0dfc2" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
